@@ -1,0 +1,25 @@
+nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 70px;
+}
+
+img {
+    width: 250px;
+    height: 45px;
+}
+
+.item{
+   margin-left: 20px;
+   display: inline-block;
+   margin-right: 50px;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+    color: #fff;
+    background-image: url(https://img.wallpapic.it/i1862-037-811/medium/spazio-viola-blu-astronomia-sfondo.jpg);
+    padding: 40px 0 40px 0;
+} 
